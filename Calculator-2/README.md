@@ -1,0 +1,1 @@
+Building a Simple CLI Calculator in TypeScript Using Easy-to-Understand If-Else Loops for Effortless Operation Handling.
